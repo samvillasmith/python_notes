@@ -1,0 +1,3 @@
+Howdy yall
+Welcome
+to the Python Basics course
