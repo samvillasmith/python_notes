@@ -1,0 +1,4 @@
+2025 - 06 - 18 17:53:33 - Arithmetic App - DEBUG - Adding 5 and 10, result: 15
+2025 - 06 - 18 17:53:33 - Arithmetic App - ERROR - Division by zero error: 10 / 0
+2025 - 06 - 18 17:53:33 - Arithmetic App - DEBUG - Dividing 10 by 2, result: 5.0
+2025 - 06 - 18 17:53:33 - Arithmetic App - INFO - Application started
